@@ -17,3 +17,10 @@ The project includes the following stages:
 - Hyperparameters (Optional): Hyperparameters for Logistic Regression are tuned using GridSearchCV, but considering runtime and marginal performance improvement.
 
 - User Testing Interface: The project provides a simple interface that allows users to input their custom text reviews and receive predicted sentiments.
+## Note:
+
+This description provides an overview of the project. If necessary, you can add more detailed information, results and conclusions from data analysis and experiments with models.
+## Author
+The author of this project: Aleksandr Loginov   https://github.com/LoginovAM-ds
+## Connection
+If you have any questions or suggestions, feel free to contact me via a.loginov.ds@gmail.com or https://www.facebook.com/profile.php?id=100074840106705.
